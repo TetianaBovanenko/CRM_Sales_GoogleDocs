@@ -41,7 +41,7 @@ The visuals were arranged into a structured dashboard with a title summarizing t
 ## Files Included
 - `sales_pipeline.csv`: Raw sales pipeline data.
 - `sales_teams.csv`: Sales team details including managers and regional offices.
-- [Google Sheets dashboard]([link provided in the repository](https://docs.google.com/spreadsheets/d/1uDxGMGDMEmVSMjdTo3TLMLGeyp0d2eWd4KYxz6WkMjY/edit?usp=sharing)).
+- [Google Sheets dashboard](https://docs.google.com/spreadsheets/d/1uDxGMGDMEmVSMjdTo3TLMLGeyp0d2eWd4KYxz6WkMjY/edit?usp=sharing).
 
 ---
 
