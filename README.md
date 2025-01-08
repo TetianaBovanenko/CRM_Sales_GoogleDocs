@@ -1,7 +1,7 @@
 # CRM Sales Dashboard Project
 
 ## Project Overview
-This project involves building a dynamic CRM Sales Dashboard in Google Sheets to analyze and visualize sales performance. The dashboard enables sales teams to track quarterly trends, evaluate agent performance, and identify opportunities for growth. It leverages raw data from the sales pipeline and sales team datasets, which were cleaned, joined, and transformed into actionable insights.
+This [project](https://docs.google.com/spreadsheets/d/1uDxGMGDMEmVSMjdTo3TLMLGeyp0d2eWd4KYxz6WkMjY/edit?usp=sharing) involves building a dynamic CRM Sales Dashboard in Google Sheets to analyze and visualize sales performance. The dashboard enables sales teams to track quarterly trends, evaluate agent performance, and identify opportunities for growth. It leverages raw data from the sales pipeline and sales team datasets, which were cleaned, joined, and transformed into actionable insights.
 
 ![CRM Sales Logo](https://github.com/TetianaBovanenko/CRM_Sales_GoogleSheets/blob/main/CRM%20Sales%20Dashboard.png?raw=true)
 
