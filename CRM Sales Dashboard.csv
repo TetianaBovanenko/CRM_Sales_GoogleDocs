@@ -1,0 +1,41 @@
+,close_date - Year-Quarter,,,,
+,2017-Q4,2017-Q3,2017-Q2,2017-Q1,Grand Total
+COUNTA of opportunity_id,"1,196","1,257","1,254",531,"4,238"
+,,,,,
+COUNTA of opportunity_id,close_date - Year-Quarter,,,,
+deal_stage,2017-Q4,2017-Q3,2017-Q2,2017-Q1,Grand Total
+Won,"1,196","1,257","1,254",531,"4,238"
+Lost,789,790,778,116,"2,473"
+,,,,,
+COUNTA of opportunity_id,close_date - Year-Quarter,,,,
+sales_agent,2017-Q1,2017-Q2,2017-Q3,2017-Q4,Grand Total
+Darcel Schlecht,44,96,115,94,349
+Vicki Laflamme,33,57,63,68,221
+Kary Hendrixson,36,55,54,64,209
+Anna Snelling,25,71,55,57,208
+Versie Hillebrand,26,52,47,51,176
+Kami Bicknell,26,53,44,51,174
+Jonathan Berthelot,14,57,54,46,171
+Cassey Cress,23,48,53,39,163
+Zane Levy,18,50,41,52,161
+Donn Cantrell,19,44,58,37,158
+Reed Clapper,19,49,49,38,155
+Corliss Cosme,23,36,48,43,150
+Maureen Marcano,22,42,48,37,149
+James Ascencio,16,39,35,45,135
+Gladys Colclough,18,34,42,41,135
+Markita Hansen,15,39,41,35,130
+Moses Frase,15,43,35,36,129
+Lajuana Vencill,16,39,36,36,127
+Violet Mclelland,17,34,36,35,122
+Marty Freudenburg,12,33,38,39,122
+Daniell Hammack,11,47,29,27,114
+Hayden Neloms,10,36,29,32,107
+Cecily Lampkin,10,31,33,33,107
+Niesha Huffines,12,31,39,23,105
+Boris Faz,7,29,31,34,101
+Elease Gluck,11,26,20,23,80
+Rosie Papadopoulos,8,26,23,21,78
+Garret Kinder,13,22,24,16,75
+Rosalina Dieter,9,21,21,21,72
+Wilburn Farren,3,14,16,22,55
